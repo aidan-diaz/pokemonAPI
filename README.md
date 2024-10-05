@@ -1,5 +1,7 @@
 Pokemon API
-HTML5, CSS3, Javascript - 
+HTML5, CSS3, Javascript
+
+![alt text](images/coverImage.png)
 
 Link to site: 
 

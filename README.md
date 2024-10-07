@@ -3,9 +3,9 @@ HTML5, CSS3, Javascript
 
 ![alt text](images/coverImage.png)
 
-Link to site: 
+Link to site: https://pokemonapipractice.netlify.app/
 
-How It's Made: https://pokemonapipractice.netlify.app/
+How It's Made: 
 
 Tech used: HTML5, CSS3, JavaScript
 
